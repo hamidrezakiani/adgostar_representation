@@ -60,7 +60,7 @@ input[type=number] {
           </section>
         </div> <!-- /.content-wrapper -->
         <footer class="main-footer">
-            <strong><a href="https://adgostar.net">ادگستر</a>.</strong>
+            <strong><a href="https://adgostar.net">ادگستر</a></strong>
         </footer>
 
           <!-- Control Sidebar -->
